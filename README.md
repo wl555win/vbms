@@ -1,6 +1,7 @@
 # vbms
 
 > vue后台管理系统
+使用vue开发前端界面
 
 ## Build Setup
 
