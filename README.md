@@ -20,3 +20,19 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+开发记录
+
+# 安装和使用 element-ui
+
+#安装
+npm i element-ui -S
+
+#使用
+#在 main.js 引入element-ui，然后就可以在其他任何页面中使用
+import Element from 'element-ui'
+import 'element-ui/lib/theme-chalk/index.css'
+Vue.use(Element)
+
+
+
