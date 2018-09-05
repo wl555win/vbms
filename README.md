@@ -1,7 +1,6 @@
 # vbms
 
-> vue后台管理系统
-使用vue开发前端界面
+> vue后台管理系统--使用vue开发前端界面
 
 ## Build Setup
 
@@ -17,8 +16,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-
-
 
 
 开发记录
